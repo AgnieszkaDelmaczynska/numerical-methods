@@ -1,0 +1,6 @@
+Metody bezpośrednie zbiegają się.
+R zostało wpisane do pliku zadG_Gauss_184592 jako r_Gauss.
+Metody Gaussa-Seidla i Jacobiego nie zbiegają się, ponieważ zostały wykryte NaN i wyszedł z pętli używajac break w linii
+
+    if(norm(res) <= untill || isnan(norm(res)))
+        break

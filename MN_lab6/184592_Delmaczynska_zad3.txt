@@ -1,0 +1,2 @@
+Zad 3.
+Myślę, że lepiej byłoby użyć aproksymacji, ponieważ nasze dane obarczone są dużym błędem.

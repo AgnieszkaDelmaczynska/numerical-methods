@@ -1,0 +1,1 @@
+Wniosek: interpolacja trygonometryczna jest dok³adniejsza od interpolacji wielomianowej

@@ -1,0 +1,5 @@
+Porównanie wygenerowanych wykresów za pomoc¹ interpolacji wielomianowej i trygonometrycznej:
+
+1) wraz ze zwiêkszaniem wartoœci K zwiêksza siê dok³adnoœæ wyznaczanej funkcji
+2) wynika to z tego, ¿e dla wiêkszej iloœci K punkty poœrednie nie s¹ obliczane, a brane jako dok³adne wartoœci
+3) wykres trugonometrycznej interpolacji dla ró¿nych K jest taki sam lub bardzo zbli¿ony

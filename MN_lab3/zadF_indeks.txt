@@ -1,0 +1,12 @@
+Powtórzyłam polecenie E dla metody Gaussa-Seidla.
+
+Z trzech metod najszybsza okazała się metoda Gaussa-Seidla.
+
+Dla N == 12000
+metoda bezpośrednia: 18 [s]		18/0.16=112,5
+metoda Jackobiego: 0.35 [s]		0.35/0.16=2.1875
+metoda Gaussa-Seidla: 0.16 [s]
+
+Wykonała się 2.1875 razy szybciej niż metoda Jckobiego i 112,5 razy szybciej niż metoda bezpośrednia.
+
+Żeby zbiec się do prawidłowego wyniku, metoda iteracyjna Gaussa-Seidla potrzebuje około 110 iteracji, a metoda Jackobiego około 210.

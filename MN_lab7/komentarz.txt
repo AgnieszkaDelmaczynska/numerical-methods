@@ -1,0 +1,1 @@
+Możemy zauważyć, że najmniejsze błędy powoduje metoda Simpsonai jest ona wykonywana w najdłuższym czasie, natomiast najkrótszy czasi największe błędy powoduje metoda Monte Carlo.
